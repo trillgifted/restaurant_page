@@ -6,7 +6,7 @@ function loadPage(){
 
     const img = document.createElement('img');
 
-    img.setAttribute("src","/dist/restaurant_img.jpg");
+    img.setAttribute("src","https://i.pinimg.com/originals/cc/cc/5b/cccc5b003986a65526e311c467b74a50.jpg");
     img.className = "image_header";
 
     const infoDiv = document.createElement('div');
