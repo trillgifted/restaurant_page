@@ -1,2 +1,2 @@
 # restaurant_page
-Learning Webpack
+Made with Javascript, CSS, HTML and Webpack
